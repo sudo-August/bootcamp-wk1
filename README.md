@@ -5,7 +5,7 @@
 ## Description
 
 ### Table of Contents
-[code](./code/)
-[data](./data/)
-[references](./references/)
-[images](./images/)
+- [code](./code/)
+- [data](./data/)
+- [references](./references/)
+- [images](./images/)
